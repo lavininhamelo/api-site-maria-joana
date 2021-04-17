@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Produto 1",
+      "value": 87,
+      "qtd": 6
+    },
+    {
+      "id": 2,
+      "name": "Produto 2",
+      "value": 27,
+      "qtd": 6
+    },
+    {
+      "id": 3
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "Curso 1",
+      "value": 87
+    },
+    {
+      "id": 2,
+      "name": "Curso 2",
+      "value": 27
+    }
+  ]
+}
